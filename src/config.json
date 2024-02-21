@@ -1,0 +1,23 @@
+{
+  "sections": [
+    {
+      "title": "Etherium Gas Prices",
+      "type": "gas",
+      "enabled": true,
+      "sortOrder": 0
+    },
+    {
+      "title": "CryptoCurrencies",
+      "type": "cc",
+      "enabled": false,
+      "sortOrder": 2
+    },
+    {
+      "title": "PeerToPeer",
+      "type": "p2p",
+      "enabled": true,
+      "sortOrder": 5,
+      "provider": "HTX"
+    }
+  ]
+}

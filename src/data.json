@@ -1,0 +1,66 @@
+{
+  "cc": {
+    "cryptoCurrencies": [
+      {
+        "ETH": 1400
+      }
+    ]
+  },
+  "gas": {
+    "prices":
+      {
+        "low": 28,
+        "average": 30,
+        "high": 34
+      }
+  },
+  "p2p": {
+    "providers": [
+      {
+        "name": "HTX",
+        "collections": [
+          {
+            "type": "sell",
+            "pair": "USDT/RUB",
+            "orders": [
+              {
+                "userName": "ChelseaYura",
+                "coinId": 2,
+                "currency": 11,
+                "payMethods": [
+                  {
+                    "payMethodId": 29,
+                    "name": "Sberbank"
+                  }
+                ],
+                "minTradeLimit": "10000.00",
+                "maxTradeLimit": "29417.00",
+                "price": "93.60",
+                "tradeCount": "314.293697",
+                "tradeMonthTimes": 284,
+                "orderCompleteRate": "97"
+              },
+              {
+                "userName": "pivasik_litr",
+                "coinId": 2,
+                "currency": 11,
+                "payMethods": [
+                  {
+                    "payMethodId": 29,
+                    "name": "Sberbank"
+                  }
+                ],
+                "minTradeLimit": "100000.00",
+                "maxTradeLimit": "110000.00",
+                "price": "93.59",
+                "tradeCount": "1200.000000",
+                "tradeMonthTimes": 69,
+                "orderCompleteRate": "95"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
